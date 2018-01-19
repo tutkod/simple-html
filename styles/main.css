@@ -26,3 +26,10 @@ li active {
     color: white;
     background-color: #4CAF50;
 }
+
+h2 {
+    font-size: 3.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
